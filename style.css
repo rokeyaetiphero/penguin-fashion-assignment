@@ -1,0 +1,90 @@
+
+.container-1{
+height: auto;
+background-color: #FFFBF0;
+}
+
+.container-1 img{
+    width: 40%;
+    height: 50%
+}
+
+.chemri img{
+    height: 600px;
+    width: 80%;
+}
+
+.text h1{
+    font-size: 60px;
+}
+
+.margin-top{
+    padding-left: 50px;
+}
+
+.span-text{
+    color:darksalmon;
+}
+
+.b-btn{
+    height: 60px;
+    width: 170px;
+    background-image: linear-gradient(lightgreen,teal);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    border-style: none;
+    border-radius: 5px;
+}
+
+.b-btn img{
+    Width : 29px;
+    Height : 25px;
+    padding-right: 7px;
+    padding-bottom: 4px
+}
+
+.card-img{
+    width: 334px;
+    height: 327px;
+    margin: 10px;
+    background-color: #F1F1F1;
+    padding: 15px;
+}
+
+.card-img img{
+    display: block;
+    margin-left: auto;
+     margin-right: auto;
+    width: 70%;
+    
+}
+
+.jacket h1,h3{
+    color: #363958;
+}
+
+.footer-img  img{
+    width: 100%;
+    
+}
+
+.footer-img{
+  padding-top: 60px
+}
+
+.footer{
+    margin-top: 140px
+}
+
+.f-1{
+    width: 78px;
+    height: 82px;
+}
+
+.w{
+    max-width: 75%
+}
+
+
+
