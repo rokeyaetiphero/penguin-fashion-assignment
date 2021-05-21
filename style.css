@@ -45,7 +45,7 @@ background-color: #FFFBF0;
 }
 
 .card-img{
-    width: 334px;
+    width: auto;
     height: 327px;
     margin: 10px;
     background-color: #F1F1F1;
@@ -56,7 +56,8 @@ background-color: #FFFBF0;
     display: block;
     margin-left: auto;
      margin-right: auto;
-    width: 70%;
+    width: 270px;
+    height: 300px
     
 }
 
